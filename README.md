@@ -4,7 +4,7 @@ The startings of a modern list api for Emacs. No 'cl required.
 
 ## Installation
 
-It's available on [marmalade](http://marmalade-repo.org/):
+It's available on [marmalade](http://marmalade-repo.org/) and [melpa](http://melpa.milkbox.net/):
 
     M-x package-install bang
 
